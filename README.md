@@ -39,23 +39,23 @@ If you're comfortable installing from the console and have [Devtools](https://gi
 
 Material:
 ```r
-rstudioapi::addTheme("https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/material.rstheme", apply = TRUE)
+rstudioapi::addTheme("https://raw.githubusercontent.com/FzliangFrank/RStudio-Material-Theme/main/material.rstheme", apply = TRUE)
 ```
 Darker:
 ```r
-rstudioapi::addTheme("https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/material-darker.rstheme", apply = TRUE)
+rstudioapi::addTheme("https://raw.githubusercontent.com/FzliangFrank/RStudio-Material-Theme/main/material-darker.rstheme", apply = TRUE)
 ```
 Palenight:
 ```r
-rstudioapi::addTheme("https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/material-palenight.rstheme", apply = TRUE)
+rstudioapi::addTheme("https://raw.githubusercontent.com/FzliangFrank/RStudio-Material-Theme/main/material-palenight.rstheme", apply = TRUE)
 ```
 Ocean:
 ```r
-rstudioapi::addTheme("https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/material-ocean.rstheme", apply = TRUE)
+rstudioapi::addTheme("https://raw.githubusercontent.com/FzliangFrank/RStudio-Material-Theme/main/material-ocean.rstheme", apply = TRUE)
 ```
 Lighter:
 ```r
-rstudioapi::addTheme("https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/material-lighter.rstheme", apply = TRUE)
+rstudioapi::addTheme("https://raw.githubusercontent.com/FzliangFrank/RStudio-Material-Theme/main/material-lighter.rstheme", apply = TRUE)
 ```
 
 ## Acknowledgements
