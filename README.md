@@ -51,7 +51,7 @@ rstudioapi::addTheme("https://raw.githubusercontent.com/FzliangFrank/RStudio-Mat
 ```
 Ocean:
 ```r
-rstudioapi::addTheme("https://raw.githubusercontent.com/FzliangFrank/RStudio-Material-Theme/main/material-ocean.rstheme", apply = TRUE)
+rstudioapi::addTheme("https://raw.githubusercontent.com/FzliangFrank/RStudio-Material-Theme/main/material-ocean-coral-highlight.rstheme", apply = TRUE)
 ```
 Lighter:
 ```r
