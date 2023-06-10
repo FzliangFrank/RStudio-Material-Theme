@@ -48,8 +48,7 @@
 }
 
 .ace_marker-layer .ace_selection {
-  background: #D35400;
-  
+  background: #464B5D80;
 }
 
 .ace_marker-layer .ace_step {
@@ -66,7 +65,7 @@
 }
 
 .ace_marker-layer .ace_selected-word {
-  border: 1px solid #464B5D80;
+  border: 1px solid #D35400;
 }
 
 .ace_marker-layer .ace_foreign_line {
