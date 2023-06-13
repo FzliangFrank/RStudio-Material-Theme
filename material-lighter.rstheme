@@ -74,7 +74,7 @@
 }
 
 .ace_marker-layer .ace_selected-word {
-  border: 1px solid #80CBC440;
+  border: 2px solid #80CBC440;
 }
 
 .ace_marker-layer .ace_foreign_line {
